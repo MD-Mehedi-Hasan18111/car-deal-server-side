@@ -6,4 +6,4 @@
 * Cors
 * MongoDB
 
-### Link link: https://car-deal-me.netlify.app/
+### Site link: https://car-deal-me.netlify.app/
